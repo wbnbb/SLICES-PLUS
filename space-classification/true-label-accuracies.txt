@@ -1,0 +1,6 @@
+Test Accuracy: 95.44%
+Label 0 accuracy: 100.00%
+Label 1 accuracy: 99.18%
+Label 2 accuracy: 95.78%
+Label 3 accuracy: 92.09%
+Label 4 accuracy: 93.56%
