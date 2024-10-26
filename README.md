@@ -1,2 +1,2 @@
 # SLICES-PLUS
-A variant crystal representation of SLICES based on space symmetry
+a variant crystal representation of SLICES based on space symmetry
